@@ -1,0 +1,13 @@
+
+@media only screen and (max-width: 480px) {
+    /* For mobile phones: */
+    .carousel-item{
+        width: 100%;
+    }
+  }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.bagde-card-radius{
+    border-radius: 26px;
+}
